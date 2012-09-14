@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Sinclair/Sinclair_Dialogue</AudioClipRef>
+      <subtitle>Hello, there. Tell me, my friend, what brings you here? Surely you aren't a friend of Gott. I can tell enough from the way you look at the others. How many lives are you gambling with, tonight?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>xy1222204310705</mHashID>
+          <objectTag>Sinclair</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>oo763711093589</mHashID>
+          <objectTag>Sinclair</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>ee243907732135</lookerHashID>
+          <lookAtTargetHashID>lc582285331182</lookAtTargetHashID>
+          <lookerTag>Sinclair</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>You are also different from the others.</string>
+        <string>What are you gambling on?</string>
+        <string>What brings you here?</string>
+        <string>I'’ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Sinclair/Sinclair_ResponseA</AudioClipRef>
+      <subtitle>You are perceptive. Excuse my poor manners, my name is Charles Sinclair. I am a professional gambler - my fortunes are made off of the misfortunes of others. Horses, dog races, card games, and of course, more illicit sports - are all within my expertise. They say the highest stakes involve life and death. Are you the one placing wagers?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>tf1004953174562</mHashID>
+          <objectTag>Sinclair</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Sinclair/Sinclair_ResponseB</AudioClipRef>
+      <subtitle>Tonight, I may just be gambling with cards. We'll see what happens though...this is usually where I show you a card trick to prove my point. Unfortunately, it's not a complete set. I think one of those idiots took my Ace of Spades, my lucky Ace of Spades. How am I supposed to beat anyone in cards unless I have a full set...this trip is getting more and more costly by the minute.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>kf554456926815</mHashID>
+          <objectTag>Sinclair</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Sinclair/Sinclair_ResponseC</AudioClipRef>
+      <subtitle>The dearly departed, Mr. Gott, had the unfortunate occurrence to owe me quite the sum of money. He bet away his fortune in a poker game not one week ago. Many people end up owing Charles Sinclair. And they all pay. I merely came here to take what is mine. And I would have been gone by now, had it not been for that Butler. He must be trained in martial arts - not many men can disarm me. He spirited away my Colt .45 pistol. I've been here trying to locate that and money...and perhaps see who else I can beat in cards. That Pearson Malory looks gullible enough.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>ns669080235744</mHashID>
+          <objectTag>Sinclair</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>..</subtitle>
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>ax15993949912</mHashID>
+          <objectTag>Sinclair</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>ck130617257990</mHashID>
+          <objectTag>Sinclair</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>os733056042254</mHashID>
+          <objectTag>Sinclair</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

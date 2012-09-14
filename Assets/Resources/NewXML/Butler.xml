@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Butler/Butler_Dialogue</AudioClipRef>
+      <subtitle>Eh, hello there. I have never seen you here before, though I must confess Master Gott kept many friends. I do not always get around to meeting all of them, my duties with the upkeep of this great house is of my primary concern. At least the secret passageways still function. It makes my job so much easier, you know.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Butler</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>ed229246280301</lookerHashID>
+          <lookAtTargetHashID>dm191923692822</lookAtTargetHashID>
+          <lookerTag>Butler</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>The mansion has seen better days...</string>
+        <string>Secret Passages?</string>
+        <string>Do you know what happened to Gott?</string>
+        <string>I'’ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Butler/Butler_ResponseA</AudioClipRef>
+      <subtitle>Nonsense! I have dutifully cared for this mansion for years! Sure, it may be harder for me to keep it perfectly dusted and clean, but I am getting there. Just earlier, I misplaced my duster...the duster I have here is a backup...it belonged to the maid before she tumbled in the well last April. If you see another duster, please return it to me.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>gs323877014347</mHashID>
+          <objectTag>Butler</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Butler/Butler_ResponseB</AudioClipRef>
+      <subtitle>Oh, how did you hear about the secret passages? Hmm. very well, Gott must have let on more to you than he told others. There are a series of secret passages throughout the mansion, for servants you see, to allow them fast travel through the mansion without getting in the way of any esteemed guests. I also have a Skeleton Key that gives me access to the whole of the mansion, but I seem to have misplaced that. Do notify me if you happen upon it.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>sa926314920752</mHashID>
+          <objectTag>Butler</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Butler/Butler_ResponseC</AudioClipRef>
+      <subtitle>That strange detective man keeps whooping and hollering about Master Gott's demise. It seems he was set upon in his sleep. He would not be the first person to meet an untimely demise in this household. I truly hope it was not a messy death. Oh, it was? Off to go get the mop bucket I suppose...</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>jv471820839517</mHashID>
+          <objectTag>Butler</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>..</subtitle>
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>jf461158225660</mHashID>
+          <objectTag>Butler</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>gv307883091376</mHashID>
+          <objectTag>Butler</objectTag>
+          <AnimationName>idle</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerTag>Butler</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0</lookTime>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

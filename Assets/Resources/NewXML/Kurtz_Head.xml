@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz/Kurtz_ShrunkenHead</AudioClipRef>
+      <subtitle>Ah, the Shrunken Head of Mamjulambala. Give it back, and I won’t eat you.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Kurtz</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>yg1254191798634</lookerHashID>
+          <lookAtTargetHashID>ng682223468329</lookAtTargetHashID>
+          <lookerTag>Kurtz</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>pr791700245351</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>false</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Sorry, I...eh...found it.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>ad42650518396</mHashID>
+          <objectTag>Kurtz</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>ga327875860981</mHashID>
+          <objectTag>Kurtz</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>vb1088921053577</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

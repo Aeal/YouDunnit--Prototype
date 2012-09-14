@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Butler/Butler_SkeletonKey</AudioClipRef>
+      <subtitle>I believe that belongs to me. Why thank you...</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Butler</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>fm271896793075</lookerHashID>
+          <lookAtTargetHashID>ng682223468329</lookAtTargetHashID>
+          <lookerTag>Butler</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>bt73305508128</mHashID>
+          <objectTag>Butler</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>false</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Sorry, I...eh...found it.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>nj702400052992</mHashID>
+          <objectTag>Butler</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>co111957503971</mHashID>
+          <objectTag>Butler</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>ir422506297426</mHashID>
+          <objectTag>Butler</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

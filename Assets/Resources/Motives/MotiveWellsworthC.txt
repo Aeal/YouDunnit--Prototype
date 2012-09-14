@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Motive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DialogText>Gott betrayed Wellsworth in a business deal.</DialogText>
+  <Character>Wellsworth</Character>
+  <SuspicionModifier>0</SuspicionModifier>
+</Motive>

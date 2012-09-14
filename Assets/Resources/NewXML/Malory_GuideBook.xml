@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Malory/Malory_Guidebook</AudioClipRef>
+      <subtitle>My Guide to Detection! How dare you pry into my notes of the sleuthing trade! I'’m watchin’' you!</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>ci135948543922</lookerHashID>
+          <lookAtTargetHashID>ae47968833897</lookAtTargetHashID>
+          <lookerTag>Malory</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>rc871670078229</mHashID>
+          <objectTag>Malory</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>false</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>My mistake, I was...eh...moving it.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>vt1090254015231</mHashID>
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>px786369035151</mHashID>
+          <objectTag>Malory</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>jj469155764726</mHashID>
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

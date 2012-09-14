@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Deborah/Deborah_Perfume</AudioClipRef>
+      <subtitle>Hmm, why that is such a peculiar scent, especially for someone like you. Perhaps because that perfume belongs to me, yes?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Deborah</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>iw442498889525</lookerHashID>
+          <lookAtTargetHashID>ng682223468329</lookAtTargetHashID>
+          <lookerTag>Deborah</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>nz670412475473</mHashID>
+          <objectTag>Deborah</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>false</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Sorry, I...eh...found it.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>eg225247929588</mHashID>
+          <objectTag>Deborah</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>aq49314635566</mHashID>
+          <objectTag>Deborah</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>qu831684666479</mHashID>
+          <objectTag>Deborah</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

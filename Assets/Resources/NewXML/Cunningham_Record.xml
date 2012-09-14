@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_Discovery_Record</AudioClipRef>
+      <subtitle>What is that? Is that my Elvis record? I thought you old folks don't like the King. Give it back!</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Cunningham</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>qa846345659614</lookerHashID>
+          <lookAtTargetHashID>ng682223468329</lookAtTargetHashID>
+          <lookerTag>Cunningham</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>wb1175554132170</mHashID>
+          <objectTag>Cunningham</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>false</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Sorry, I...eh...found it.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+      </jump>
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>do202589828473</mHashID>
+          <objectTag>Cunningham</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>cr122620159615</mHashID>
+          <objectTag>Cunningham</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>at42650490397</mHashID>
+          <objectTag>Cunningham</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDialogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+	
+	<!--NPC: 0 -->
+	<DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Malory/Malory_003_magnifying</AudioClipRef>
+    <subtitle>My lucky magnifying glass, what are you doing with it?! And you even chipped it! Give that to me!</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+	<wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+   <!--Player: 1 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>Sorry, I...eh...found it.</string></choice>
+    <jump><int>2</int></jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>   
+  
+   
+  <!--Player: 2 -->  
+  <DialogItem>
+    <show>false</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle></subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Subtitle</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>true</has_action>
+    <ActionMethod>StopConversationRestoreDefaults</ActionMethod>
+    <ActionParameter />
+  </DialogItem>        
+  
+   
+</ArrayOfDialogItem>

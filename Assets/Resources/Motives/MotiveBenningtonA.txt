@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Motive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DialogText>Bennington believes Gott is the Red Baron.</DialogText>
+  <Character>Bennington</Character>
+  <SuspicionModifier>40</SuspicionModifier>
+</Motive>

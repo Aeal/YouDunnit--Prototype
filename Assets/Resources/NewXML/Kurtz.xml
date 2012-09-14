@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz/Kurtz_Dialogue</AudioClipRef>
+      <subtitle>Aha! Come to me you - oh...my mistake. For a second you were the man I was hunting for. I tell you, it's quite the thrill. The deadliest prey. Look out for that rhino! Good god, man, did you just see that?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Kurtz</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>li565119334194</lookerHashID>
+          <lookAtTargetHashID>dr158560557681</lookAtTargetHashID>
+          <lookerTag>Kurtz</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>nb682408255030</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Err...who are you?</string>
+        <string>What are you looking for?</string>
+        <string>Are those trophies from the hunt?</string>
+        <string>I’'ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz/Kurtz_ResponseA</AudioClipRef>
+      <subtitle>I am the world renowned trophy hunter! I have taken down Lion, Cheetah, Crocodile, Giant Squid, Tyrannosaurus Rex, you name it! Though, I've come here looking for one beast in particular. Shh! Don't be startled. But we are being hunted...from the bushes straight ahead. Run...towards the canoe...I've got her...GO NOW!</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>nw682408260346</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz/Kurtz_ResponseB</AudioClipRef>
+      <subtitle>What am I looking for? Keep your voice down. The item I am searching for is one of extreme value. It is the Ivory Horn of the Orange Rhinoceros of Quizolcuwaito. I'm sure you've heard of it. No, the Rhino is not here. I killed it, you see. Many years ago. And took its horn as my trophy. It is among my most prized possessions...but it disappeared! It must be somewhere around here, and I will find it.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>gc338538473920</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz/Kurtz_ResponseC</AudioClipRef>
+      <subtitle>You see this? It's a diamond from the Lost City of Zenge. And this is...uh...where'd it go?! The head! The Shrunken Head of Herkemer Homolka! Where has it gone?! Blast, I am losing everything in this foreboding place! This is worse than the time I caught Yellow Fever and Cabin Fever simultaneously.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>tg1018281082412</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>em225248042339</mHashID>
+          <objectTag>Kurtz</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>ai18659601198</mHashID>
+          <objectTag>Kurtz</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>gp333207166577</mHashID>
+          <objectTag>Kurtz</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

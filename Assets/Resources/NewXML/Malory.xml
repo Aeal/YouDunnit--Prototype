@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Malory/Malory_Dialogue</AudioClipRef>
+      <subtitle>Ah - the killer! Oh, just kidding. Don't tell anyone this, but I really couldn't have the slightest clue about who the killer is...or do I? You see that? Textbook misdirection! Now, if only I found my textbook on detection...what was it that you wanted?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Malory</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>wm1131571646279</lookerHashID>
+          <lookAtTargetHashID>lc582285331182</lookAtTargetHashID>
+          <lookerTag>Malory</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Tell me about yourself, Mr. Malory was it?</string>
+        <string>You have a textbook on detection?</string>
+        <string>That's a nice magnifying glass you have there.</string>
+        <string>I'’ll leave you to it, then.</string>
+        <string>I know who the killer is!</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+        <int>6</int>
+      </jump>
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Malory/Malory_ResponseA</AudioClipRef>
+      <subtitle>I, Mister Pearson Malory am a renowned investigator of the highest order. I have undertaken literally dozens of investigations! But, if this all goes swimmingly, it will be my first case that ends in success! Or at least better than my last investigation, where I arrested the Mayor, and accused him to be the cross-dressing burglar who was terrorizing the city. I have been thrown off the police force, but they will soon come to their senses.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>lb611768419536</mHashID>
+          <objectTag>Malory</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Malory/Malory_ResponseB</AudioClipRef>
+      <subtitle>Indeed I do. The Acme Children's Guide for Detectives. Don't let the title fool you - it is loaded with useful tips and information that have made me into the success I am today. Though, step 1 is not to lose it...and I believe I've already lost it somewhere in the mansion...</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>fx282559706539</mHashID>
+          <objectTag>Malory</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Malory/Malory_ResponseC</AudioClipRef>
+      <subtitle>Ah yes, a magnifying glass is the most important tool for any investigator - mark my words! I have a lucky magnifying glass that points me to clues I need. That is usually with me, but I left it somewhere. I always keep my spare with me, however. Best to stay prepared, wouldn't you say?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>mk642423485975</mHashID>
+          <objectTag>Malory</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>..</subtitle>
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>ga306550627398</mHashID>
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>om767709399383</mHashID>
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>sj951639781472</mHashID>
+          <objectTag>Malory</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>..</subtitle>
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="InitilizeEndState">
+          <IsShowing>true</IsShowing>
+        </NodeAction>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Malory</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Malory</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>false</mHasPreloaded>
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

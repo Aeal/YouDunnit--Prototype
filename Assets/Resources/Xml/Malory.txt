@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDialogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+	
+	<!--NPC: 0 -->
+	<DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Malory/Malory_002</AudioClipRef>
+    <subtitle>Don’t tell anyone this, but I really couldn’t have the slightest clue about who the killer is...or do I? You see that? Textbook misdirection! Now, if only I found my textbook on detection...what was it you wanted?</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+	<wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--Player: 1 -->
+  <DialogItem>
+    <show>true</show>
+    <speaker>Player</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>You have a textbook on detection?</string>
+      <string>That’s a nice magnifying glass you have there.</string>
+	  <string>Where was the victim seen before he was killed?</string>
+	  <string>I’ll leave you to it, then.</string>
+	  <string>I know who the killer is!</string>	  
+    </choice>
+    <jump>
+      <int>2</int>
+      <int>4</int>
+	  <int>6</int>
+	  <int>8</int>
+	  <int>9</int>	  
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--NPC: 2 -->
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Malory/Malory_002a</AudioClipRef>
+    <subtitle>Indeed I do. The Acme Children’s Guide for Detectives. Don’t let the title fool you – it is loaded with useful tips and information that have made me into the success I am today. Though, step 1 is not to lose it...I believe it’s somewhere in the library...I think.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--Player: 3 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>That’s a nice magnifying glass you have there.</string>
+	  <string>Where was the victim seen before he was killed?</string>
+	  <string>I’ll leave you to it, then.</string>
+	  <string>I know who the killer is!</string>	  
+	  </choice>
+    <jump>
+      <int>4</int>
+      <int>6</int>
+      <int>8</int>	  
+	  <int>9</int>	  	  
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--NPC: 4 -->    
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Malory/Malory_002b</AudioClipRef>
+    <subtitle>Ah yes, a magnifying glass is the most important tool for any investigator – mark my words! I have a lucky magnifying glass that always points me to clues I need. That is usually with me, but I left it somewhere. I always keep my spare with me, however. Best to stay prepared, wouldn’t you say?</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+   <!--Player: 5 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>Where was the victim seen before he was killed?</string>
+	  <string>I’ll leave you to it, then.</string>
+	  <string>I know who the killer is!</string>	  
+	</choice>
+    <jump>
+      <int>6</int>
+      <int>8</int> 
+	  <int>9</int>	  	  
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem> 
+  
+  
+  <!--NPC: 6 -->    
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Malory/Malory_002c</AudioClipRef>
+    <subtitle>I am trying to retrace the steps that the victim and his killer took this evening. The last notes I have of the victim’s whereabouts are that he spent some time in Mr. Cunningham’s room with several other guests. I don't know any more, as I then become lost in a broom closet for some hours.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>  
+  
+  
+   <!--Player: 7 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>I’ll leave you to it, then.</string></choice>
+	  <string>I know who the killer is!</string>	  
+    <jump>
+	<int>8</int>
+	<int>9</int>	  
+	</jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+
+  <!--Player: 8 -->  
+  <DialogItem>
+    <show>false</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle></subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Subtitle</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>true</has_action>
+    <ActionMethod>StopConversationRestoreDefaults</ActionMethod>
+    <ActionParameter />
+  </DialogItem>        
+
+
+  <!--Player: 9 -->  
+  <DialogItem>
+    <show>false</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle></subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Subtitle</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>true</has_action>
+    <ActionMethod>InitializeEndState</ActionMethod>
+    <ActionParameter />
+  </DialogItem>     
+  
+   
+</ArrayOfDialogItem>

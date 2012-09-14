@@ -1,0 +1,240 @@
+Intro
+1. Title Screen
+2. Suitcase full of cash
+3. Richard Gott standing at the head of a table, grinning, arms raised
+4. Same image, only with Gott with X's over his eyes
+5. Image of guests looking suspiciously at each other
+6. Sillouette of Butler opening up front door
+7. Sillouette of player over sleeping Gott, knife raised
+8. Gott dead in bed
+
+
+Skipped Scene
+1. Splash screen, with film grain
+2. Silhouette of player stabbing Gott, with film grain
+3. Dead Gott, with film grain
+4. Silhouettes of guests in parlor room, with film grain
+
+
+Parlor Scene Set 1
+1. Set 1 characters standing/sitter around in ball room
+2. Deborah Taunt smoking a cigarette
+3. Peter Wellsworth leaning on his cane
+4. Charles Sinclair shuffling cards
+5. Kurtz looking through binoculars
+6. Pearson Malory looking through magnifying glass
+7. Kurtz angry
+8. Sinclair and Taunt together, Taunt looking irritated
+9. Malory back to camera, looking out window
+10. Malory pointing dramatically at camera
+11. Set 1 guests all looking shocked
+12. Malory back to camera, looking out window
+13. Malory pointing dramatically at camera
+14. Butler holding telephone on tray
+15. Malory smoking his pipe
+
+
+Parlor Scene Set 2
+1. Set 2 characters standing/sitter around in ball room
+2. Jean Pierre playing accordian
+3. Elizabeth Gott looking glamorous
+4. Major Bennington standing at attention
+5. Fritz Cunningham sitting with his feet up on the table
+6. Pearson Malory looking through magnifying glass
+7. Bennington angry
+8. Cunningham and Elizabeth together, Elizabeth looking tired
+9. Malory back to camera, looking out window
+10. Malory pointing dramatically at camera
+11. Set 2 guests all looking shocked
+12. Malory back to camera, looking out window
+13. Malory pointing dramatically at camera
+14. Butler holding telephone on tray
+15. Malory smoking his pipe
+
+
+Parlor Scene Set 3
+1. Set 3 characters standing/sitter around in ball room
+2. Elizabeth Gott looking glamorous
+3. Charles Sinclair shuffling cards
+4. Dorothy Ellington fanning herself
+5. Dr. Quinn wringing his hands nervously
+6. Pearson Malory looking through magnifying glass
+7. Dorothy Ellington angry
+8. Sinclair and Elizabeth together, Elizabeth looking tired
+9. Malory back to camera, looking out window
+10. Malory pointing dramatically at camera
+11. Set 3 guests all looking shocked
+12. Malory back to camera, looking out window
+13. Malory pointing dramatically at camera
+14. Butler holding telephone on tray
+15. Malory smoking his pipe
+
+
+Parlor Scene Set 4
+1. Set 4 characters standing/sitter around in ball room
+2. Jean Pierre playing accordian
+3. Deborah Taunt smoking a cigarette
+4. Major Bennington standing at attention
+5. Kurtz looking through binoculars
+6. Pearson Malory looking through magnifying glass
+7. Major Bennington angry
+8. Kurtz and Deborah Taunt together, Taunt looking irritated
+9. Malory back to camera, looking out window
+10. Malory pointing dramatically at camera
+11. Set 4 guests all looking shocked
+12. Malory back to camera, looking out window
+13. Malory pointing dramatically at camera
+14. Butler holding telephone on tray
+15. Malory smoking his pipe
+
+
+Parlor Scene Set 5
+1. Set 5 characters standing/sitter around in ball room
+2. Fritz Cunningham sitting with his feet up on the table
+3. Dorothy Ellington fanning herself
+4. Peter Wellsworth leaning on his cane
+5. Dr. Quinn wringing his hands nervously
+6. Pearson Malory looking through magnifying glass
+7. Fritz Cunningham sitting with his feet up on the table
+8. Wellsworth and Dorothy Ellington together, Dorothy looking irritated
+9. Malory back to camera, looking out window
+10. Malory pointing dramatically at camera
+11. Set 5 guests all looking shocked
+12. Malory back to camera, looking out window
+13. Malory pointing dramatically at camera
+14. Butler holding telephone on tray
+15. Malory smoking his pipe
+
+
+Verdict Player
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Malory smoking pipe
+5. Prison bars
+6. Pearson Malory
+7. Splash screen
+
+
+Verdict Butler
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Butler maniacally
+5. Malory smoking a pipe
+6. Butler maniacally
+7. Malory handcuffing Butler
+
+
+Verdict Charles Sinclair
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Sinclair looking casual, uninterested
+5. Malory smoking his pipe
+6. Malory in same pose, only now wearing sunglasses
+
+
+Verdict Deborah Taunt
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Deborah looking casual, interested
+5. Malory looking intrigued
+6. Deborah walking out the front door
+7. Same camera POV, door is now shut
+8. Malory looking upset
+
+
+Verdict Dorothy Ellington
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Dorothy uninterested
+5. Malory casually
+6. Dorothy uninterested
+7. Malory confused
+8. Dorothy laughing
+9. Malory uneasy
+10. Malory terrified, looking to his left
+11. Malory runs out of frame
+
+
+Verdict Dr. Quinn
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Dr. Quinn upset
+5. Malory casually
+6. Dr. Quinn fainting
+7. Malory casaully
+
+
+Verdict Fritz Cunningham
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Cunningham angry
+5. Malory smoking pipe
+6. Cunningham anxious
+7. Cunningham running out the front door
+
+
+Verdict Elizabeth Gott
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Elizabeth casually
+5. Malory casually
+6. Elizabeth panicked
+7. Malory upset, beside an angry Elizabeth
+
+
+Verdict Jean-Pierre Bouchez
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Jean-Pierre angry
+5. Malory casually
+6. Jean-Pierre upset, playing the accordion
+
+
+Verdict Kurtz
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Kurtz shocked
+5. Malory casually
+6. Kurtz mischievously
+7. Malory confused
+8. Kurtz loading hunting rifle, Malory in frame looking scared
+9. Same frame, Malory runs out of shot
+10. Same frame, Kurtz with hunting rifle
+
+
+Verdict Major Bennington
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Bennington angry
+5. Malory casually
+6. Bennington with sword in hand
+7. Malory running out of frame, Bennington chasing after
+
+
+Verdict Pearson Malory
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Malory smoking pipe
+5. Malory attempting to handcuff himself
+
+
+Verdict Peter Wellsworth
+1. Malory facing outside window, back to camera
+2. Malory pointing accusingly
+3. Random guests shocked
+4. Wellsworth intrigued
+5. Malory irritated
+6. Wellsworth checking wallet
+7. Malory speaking

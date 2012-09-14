@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Wellsworth/Wellsworth_Dialogue</AudioClipRef>
+      <subtitle>So let me guess, you are a young lad looking to earn, aren't you? Well, it just so happens I am funding an expedition to the last unexplored island on this earth! Or at least, that's what the director told me! Hahah. It's called Skull Island or something of that nature. Anyways, what can I do for you, old bean?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>sa939644788575</mHashID>
+          <objectTag>Wellsworth</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>kp521136330576</lookerHashID>
+          <lookAtTargetHashID>dr158560557681</lookAtTargetHashID>
+          <lookerTag>Wellsworth</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>ib429171096658</mHashID>
+          <objectTag>MainCamera</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>And you are...?</string>
+        <string>You look rather wealthy...</string>
+        <string>What brings you here?</string>
+        <string>I’'ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Wellsworth/Wellsworth_ResponseA</AudioClipRef>
+      <subtitle>Allow me to introduce myself - I am Sir Peter Wellsworth! Perhaps you have heard of me? Hahaha! Of course you have! Isn't a person in this country who doesn't know my name! I own just about every meaningful business in the city, and for the rest, well, they're just waiting for my checks to clear!</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>lt607770251580</mHashID>
+          <objectTag>Wellsworth</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Wellsworth/Wellsworth_ResponseB</AudioClipRef>
+      <subtitle>Right you are, right you are! I may just be the richest man in the country! Well, one of them, that is. If it wasn't for that blasted Disney - always trying to outspend me! Making his own world. Pshh! Well, I think I'll have him this time! I'm planning on opening a park with real dinosaurs! No costumes, no fake rides, real dinosaurs! Real enough to eat you! I need a smoke to calm down. You wouldn't happen to have a light, would you? I lost my ruddy Golden Lighter somewhere in this mansion. Oh, and don't mention the dinosaur park to anyone. Patent pending, and all that.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>il417175634834</mHashID>
+          <objectTag>Wellsworth</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Wellsworth/Wellsworth_ResponseC</AudioClipRef>
+      <subtitle>Well, I am a friend of dear Gott! Pity what happened to the chum. Richard and I go back many years. We were in the first millionaires club, him and I. Now there's far too many snobs in it. Never become a millionaire, boy. Life just isn't the same. Now, I happened to locate Richard's will. I'm trying to see just who is entitled to his wealth in the event of his.uh.demise. And I'd been able to read it by now if I just had my reading Monocle! Let me know if it turns up.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>ft281227025870</mHashID>
+          <objectTag>Wellsworth</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>vm1116911128762</mHashID>
+          <objectTag>Wellsworth</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>oq750383015148</mHashID>
+          <objectTag>Wellsworth</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>kl521136340155</mHashID>
+          <objectTag>Wellsworth</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfDialogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef>Assets/Resources/Audio/Effects/Game/Player Calls/Call_004.wav</AudioClipRef>
+    <subtitle>HOSHSO</subtitle>
+    <wait>Audio</wait>
+    <is_branch>false</is_branch>
+    <onNodeFocusedActions>
+      <NodeAction xsi:type="LookAtGameObject">
+        <mHashID />
+      </NodeAction>
+    </onNodeFocusedActions>
+    <onNodeLeaveActions />
+  </DialogItem>
+</ArrayOfDialogItem>

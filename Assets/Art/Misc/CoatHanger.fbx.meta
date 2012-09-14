@@ -1,0 +1,76 @@
+fileFormatVersion: 1
+guid: 614cf05d201df0542a9b7240a44b1b07
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    transform27:
+    - 100000
+    - 400000
+    polySurface96:
+    - 100002
+    - 400002
+    polySurface97:
+    - 100004
+    - 400004
+    transform26:
+    - 100006
+    - 400006
+    pCylinder16:
+    - 100008
+    - 400008
+    transform28:
+    - 100010
+    - 400010
+    pSphere11:
+    - 100012
+    - 400012
+    polySurface98:
+    - 100014
+    - 400014
+    transform25:
+    - 100016
+    - 400016
+    polySurface99:
+    - 100018
+    - 400018
+    transform24:
+    - 100020
+    - 400020
+    polySurface100:
+    - 100022
+    - 400022
+    transform23:
+    - 100024
+    - 400024
+    polySurface123:
+    - 100026
+    - 400026
+    - 3300000
+    - 2300000
+    //RootNode:
+    - 100028
+    - 400028
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface123

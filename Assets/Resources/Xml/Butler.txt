@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDialogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+	
+	<!--NPC: 0 -->
+	<DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Butler/Butler_002</AudioClipRef>	
+    <subtitle>A bit of murder is of little consequence to me. I continue my loyal duties of cleaning this mansion. Every day it grows more dusty! Ehem, was something you needed, sir?</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+	<wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--Player: 1 -->
+  <DialogItem>
+    <show>true</show>
+    <speaker>Player</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>What do you use to keep the mansion dusted?</string>
+      <string>How do you get around the mansion so quickly?</string>
+	  <string>Did you see the victim before he died?</string>
+	  <string>No thanks, sorry.</string>
+    </choice>
+    <jump>
+      <int>2</int>
+      <int>4</int>
+	  <int>6</int>
+	  <int>8</int>
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--NPC: 2 -->
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Butler/Butler_002a</AudioClipRef>
+    <subtitle>Why, what a silly question. I use my feather duster to keep the mansion clean! The one I have right here isn’t my usual duster...I must have misplaced that, somewhere. Perhaps it’s in the library somewhere. Among the shelves.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--Player: 3 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>How do you get around the mansion so quickly?</string>
+	  <string>Did you see the victim before he died?</string>
+	  <string>No thanks, sorry.</string></choice>
+    <jump>
+      <int>4</int>
+      <int>6</int>
+      <int>8</int>	  
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--NPC: 4 -->    
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Butler/Butler_002b</AudioClipRef>
+    <subtitle>For one, I have loyally served here for many years. I know this place quite well. Though, it helps to have the master key to the mansion! It’s actually quite nice. I – hmm, I cannot seem to find it. Must be around here somewhere.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+   <!--Player: 5 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>Did you see the victim before he died?</string>
+	  <string>No thanks, sorry.</string></choice>
+    <jump>
+      <int>6</int>
+      <int>8</int> 
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem> 
+  
+  
+  <!--NPC: 6 -->    
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Butler/Butler_002c</AudioClipRef>
+    <subtitle>Indeed I did. I saw the poor soul as he listened to that army man and the smelly explorer out-boasting one another in Mr. Cunningham’s room. Though, I fear he left shortly after.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>  
+  
+  
+  <!--Player: 7 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>No thanks, sorry.</string>
+	  </choice>
+    <jump><int>8</int></jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>   
+  
+  
+  <!--Player: 8 -->  
+  <DialogItem>
+    <show>false</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle></subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Subtitle</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>true</has_action>
+    <ActionMethod>InitializeButlerPath</ActionMethod>
+    <ActionParameter />
+  </DialogItem>     
+      
+</ArrayOfDialogItem>

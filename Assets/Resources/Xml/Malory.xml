@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfDialogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef>Audio/Dialogue/Bennington/Bennington_002</AudioClipRef>
+    <subtitle>That Detective Pearson Malory! The nerve of him ordering me to look for the killer – like I was a common trench greenhorn! I’d sooner be looking for that medal I misplaced than listening to that buffoon.</subtitle>
+    <wait>Audio</wait>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <onNodeFocusedActions>
+      <NodeAction xsi:type="StopNav">
+        <IsShowing>true</IsShowing>
+        <mHashID>de187757593274</mHashID>
+      </NodeAction>
+      <NodeAction xsi:type="PlayAnimation">
+        <IsShowing>true</IsShowing>
+        <mHashID>mb627190287131</mHashID>
+        <AnimationName>talk</AnimationName>
+      </NodeAction>
+    </onNodeFocusedActions>
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>Player</speaker>
+    <AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+    <wait>Audio</wait>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>Misplaced medals, you say?</string>
+      <string>Bring back any loot from the war?</string>
+      <string>Did you see the bloke before he turned up dead?</string>
+      <string>I’ll leave you to it, then.</string>
+    </choice>
+    <jump>
+      <int>2</int>
+      <int>4</int>
+      <int>6</int>
+      <int>8</int>
+    </jump>
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef>Audio/Dialogue/Bennington/Bennington_002a</AudioClipRef>
+    <subtitle>See this one here? Saint Mihiel! Lost my right leg there. And see this one?! Argonne! Got my leg back there. And there’s Flanders. That’s where I booted the Kaiser outta’ Belgium! Single-handedly! It’s usually on me at all times! Last time I saw it was when I was showing it to young Madam Taunt in the library. Must still be there! Blast!</subtitle>
+    <wait>Audio</wait>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+    <wait>Audio</wait>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>Bring back any loot from the war?</string>
+      <string>Did you see the bloke before he turned up dead?</string>
+      <string>I’ll leave you to it, then.</string>
+    </choice>
+    <jump>
+      <int>4</int>
+      <int>6</int>
+      <int>8</int>
+    </jump>
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef>Audio/Dialogue/Bennington/Bennington_002b</AudioClipRef>
+    <subtitle>Loot? Preposterous! They are liberation gifts! I have a fine bayonet that I secured from some unlucky German in Flanders. I keep it with me at all times, in case those Huns decide to invade again. Left it in my bedroom before I came down here. But, nevermind. Do you want to hear the story of how I singlehandedly destroyed the German 5th Army with nothing but a can of beans and a messenger pigeon?</subtitle>
+    <wait>Audio</wait>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+    <wait>Audio</wait>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>Did you see the bloke before he turned up dead?</string>
+      <string>I’ll leave you to it, then.</string>
+    </choice>
+    <jump>
+      <int>6</int>
+      <int>8</int>
+    </jump>
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef>Audio/Dialogue/Bennington/Bennington_002c</AudioClipRef>
+    <subtitle>I haven’t seen a fallen man for a long while. I did happen upon him while I was recanting my stories in young Cunningham’s room. That was the last I saw of the chap.</subtitle>
+    <wait>Audio</wait>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+    <wait>Audio</wait>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>I’ll leave you to it, then.</string>
+    </choice>
+    <jump>
+      <int>8</int>
+    </jump>
+    <onNodeFocusedActions />
+    <onNodeLeaveActions />
+  </DialogItem>
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+    <AudioClipRef />
+    <subtitle />
+    <wait>Subtitle</wait>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <onNodeFocusedActions />
+    <onNodeLeaveActions>
+      <NodeAction xsi:type="EndConvoActions">
+        <IsShowing>true</IsShowing>
+        <mHashID>iw444759652054</mHashID>
+      </NodeAction>
+      <NodeAction xsi:type="StartNav">
+        <IsShowing>true</IsShowing>
+        <mHashID>lq568601358822</mHashID>
+      </NodeAction>
+      <NodeAction xsi:type="PlayAnimation">
+        <IsShowing>true</IsShowing>
+        <mHashID>mf627192612539</mHashID>
+        <AnimationName>mwalk</AnimationName>
+      </NodeAction>
+    </onNodeLeaveActions>
+  </DialogItem>
+</ArrayOfDialogItem>

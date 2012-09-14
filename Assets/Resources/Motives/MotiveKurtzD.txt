@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Motive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DialogText>Kurtz wants to turn Gott into a shrunken head.</DialogText>
+  <Character>Kurtz</Character>
+  <SuspicionModifier>0</SuspicionModifier>
+</Motive>

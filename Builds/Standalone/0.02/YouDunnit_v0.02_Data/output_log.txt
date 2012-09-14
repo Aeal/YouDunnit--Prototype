@@ -1,0 +1,538 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2008]
+    Renderer: Intel(R) Graphics Media Accelerator HD
+    Vendor:   Intel
+    VRAM:     128 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.458 seconds
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\Boo.Lang.dll (this message is harmless)
+Loading: 0 files
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SoundManager:LoadMusic()
+SoundManager:Init(Boolean, Boolean, Int32, Int32, String)
+SoundManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Showing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Slide:Show()
+SlideShow:BeginShow()
+SlideShow:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating 3d audio callback
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SoundManager:Play3DSoundWithCallback(GameObject, AudioClip, Delegate, String, Boolean, Single)
+Slide:Show()
+SlideShow:BeginShow()
+SlideShow:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6951. Operation took 8.446755 ms.
+System memory in use: 19.8 MB.
+Starting Game
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Tyler\Desktop\2011capstone02\Builds\Standalone\0.02\YouDunnit_v0.02_Data\Managed\System.Configuration.dll (this message is harmless)
+Added motive for Anyone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MotiveManager:Init()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added motive for Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MotiveManager:Init()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added motive for Butler
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MotiveManager:Init()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added motive for Cunningham
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MotiveManager:Init()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added motive for Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MotiveManager:Init()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added motive for Deb
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MotiveManager:Init()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating input instance
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inputbase:CreateInput()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+CreatingSpawnpoint
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Default convo for:Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Conversation:LoadDefaultConvo()
+Conversation:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Default convo for:Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Conversation:LoadDefaultConvo()
+Conversation:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading: 0 files
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SoundManager:LoadMusic()
+SoundManager:Init(Boolean, Boolean, Int32, Int32, String)
+SoundManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Removing inventory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inventory:OnDestroy()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Dead
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterMovement:OnDestroy()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+

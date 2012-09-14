@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<audioFiles>
+		<audio>Shot_001</audio>
+		<audio>Shot_002</audio>
+		<audio>Shot_003</audio>
+		<audio>Shot_004</audio>
+		<audio>Shot_005</audio>
+		<audio>Shot_006</audio>
+		<audio>Shot_007</audio>
+		<audio>Shot_008</audio>
+		<audio>Shot_009</audio>
+		<audio>Shot_010</audio>
+		<audio>Shot_011</audio>
+		<audio>Shot_012</audio>
+		<audio>Shot_013</audio>
+		<audio>Shot_014</audio>
+		<audio>Shot_015</audio>
+		<audio>Shot_016</audio>
+		<audio>Shot_017</audio>
+		<audio>Shot_018</audio>
+	</audioFiles>
+	<imageFiles>
+		<image>Shot_001</image>
+		<image>Shot_002</image>
+		<image>Shot_003</image>
+		<image>Shot_004</image>
+		<image>Shot_005</image>
+		<image>Shot_006</image>
+		<image>Shot_007</image>
+		<image>Shot_008</image>
+		<image>Shot_009</image>
+		<image>Shot_010</image>
+		<image>Shot_011</image>
+		<image>Shot_012</image>
+		<image>Shot_013</image>
+		<image>Shot_014</image>
+		<image>Shot_015</image>
+		<image>Shot_016</image>
+		<image>Shot_017</image>
+		<image>Shot_018</image>
+	</imageFiles>
+</root>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Elizabeth/Elizabeth_Dialogue</AudioClipRef>
+      <subtitle>Please don't ask me about poor Richard. I'm much too distressed. Why, why don't you ask me about something else, let's lighten this up a little bit! Let's talk about me! I'm starring in a Broadway show soon! It's my first big role outside of Hollywood. My husband Richard never much liked my roles, he can be so jealous! What about you, then, stranger?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Elizabeth</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>cp107959084856</lookerHashID>
+          <lookAtTargetHashID>dr158560557681</lookAtTargetHashID>
+          <lookerTag>Elizabeth</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>hb406512605973</mHashID>
+          <objectTag>Elizabeth</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Where are you from, Elizabeth?</string>
+        <string>Tell me of your theater career.</string>
+        <string>You and Richard were married?</string>
+        <string>I’'ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Elizabeth/Elizabeth_ResponseA</AudioClipRef>
+      <subtitle>Why, Hollywood, can't you tell? Richard and I met there a year back. I the young, beautiful, and talented actress, he the travelling business man. Oh! It was love at first sight. Well, maybe for one of us, that is. Richard insisted I come back with him to New York. He promised me a career here, at Broadway. So I left everything behind, never looking back.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>rz882332297610</mHashID>
+          <objectTag>Elizabeth</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Elizabeth/Elizabeth_ResponseB</AudioClipRef>
+      <subtitle>Why, Mister, I've come from sea to shining sea! I've danced my way into the spotlight! My career started in Hollywood...but Hollywood was too small for this girl! I dreamed of greener pastures, I dreamed of...Broadway! It just so happens I'm appearing as a star role in the dance musical Call Me Tico, surely you've heard of it? Well, I suppose you'll want an autograph from yours truly. I sign for all of my fans in lipstick...I...oh dear, I seem to have misplaced my lipstick, somewhere! Do let me know if you happen upon it. I might just give you a kiss to go along with that autograph.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>vh1112911589066</mHashID>
+          <objectTag>Elizabeth</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Elizabeth/Elizabeth_ResponseC</AudioClipRef>
+      <subtitle>Yes, we were. And Richard loved me dearly. And his jealousy was just as strong as his love. But...it wasn't completely unjustified. A girl of my beauty and talent, how can men resist? I received more than a few letters from young men, some of which I may have continued correspondence with. But Richard! He found my letters, and I don't know what became of them! Maybe he burned them, or maybe he has them hidden away somewhere. Oh, I wish he did not become so upset.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>xu1227534822169</mHashID>
+          <objectTag>Elizabeth</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>sn936978267107</mHashID>
+          <objectTag>Elizabeth</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>bm94630806807</mHashID>
+          <objectTag>Elizabeth</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>sr960969181573</mHashID>
+          <objectTag>Elizabeth</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

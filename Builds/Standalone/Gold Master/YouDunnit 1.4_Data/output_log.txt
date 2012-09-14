@@ -1,0 +1,2148 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2025]
+    Renderer: Intel(R) Graphics Media Accelerator HD
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.232 seconds
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 276. Operation took 10.353519 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 351. Operation took 17.258272 ms.
+Loading Parlor set: 4
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading level: Parlor4
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 378. Operation took 10.213489 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 379. Operation took 15.121257 ms.
+Loading level: Mansionv2
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The class defined in the script file named 'CharacterSetManager' is not derived from MonoBehaviour or ScriptableObject!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Mono/MonoBehaviour.cpp Line: 1486)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.DrawTexture (Rect position, UnityEngine.Texture image, ScaleMode scaleMode, Boolean alphaBlend, Single imageAspect) [0x00000] in <filename unknown>:0 
+  at LoadingScreen.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 15747. Operation took 16.537912 ms.
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\Standalone\Gold Master\YouDunnit 1.4_Data\Managed\System.Configuration.dll (this message is harmless)
+Tutorial Trigger object not set - looking it up manually.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Trigger object not set - looking it up manually.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Trigger object not set - looking it up manually.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Trigger object not set - looking it up manually.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Trigger object not set - looking it up manually.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Trigger object not set - looking it up manually.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Spawner Destroyed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Spawner Destroyed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Spawner Destroyed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Spawner Destroyed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Spawner Destroyed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Butler(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Malory(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Cunningham(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Dorothy(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Wellsworth(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Stopping Agent
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Quinn
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Ending convo actions
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Returning to scene
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Stopping Agent
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Ending convo actions
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Returning to scene
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding Item: MotorcycleKeys
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added item to index: 0
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No pickup effect! (AddItemToInventory)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No placement audio! (AddItemToInvetory)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Equiping item in slot 0  MotorcycleKeys(Clone) (Item)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Replacing stuff
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Replacing items: 
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Matching Item: MotorcycleKeys(Clone) (Item)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Removing MotorcycleKeys
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+display Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Butler(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Malory(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Cunningham(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Dorothy(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Wellsworth(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Butler(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Malory(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Cunningham(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Dorothy(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Wellsworth(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Butler(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Malory(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Cunningham(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Dorothy(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+STOP AUDIO onDiary_Wellsworth(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+InteractiveItem
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding Item: RocknRollRecord
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Added item to index: 0
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No pickup effect! (AddItemToInventory)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+No placement audio! (AddItemToInvetory)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Equiping item in slot 0  RocknRollRecord(Clone) (Item)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Replacing stuff
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Replacing items: 
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Matching Item: RocknRollRecord(Clone) (Item)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Removing RocknRollRecord
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+display Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Door
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Stopping Agent
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+index at branch = 1
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Ending convo actions
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Returning to scene
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NonPlayableCharacter.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Removing inventory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Diary Spawner Destroyed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1174 unused Assets to reduce memory usage. Loaded Objects now: 2046. Operation took 23.581252 ms.
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 534)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 534)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 534)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 534)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 534)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AccuseSetUp.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 184)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 184)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 184)
+
+System.TypeInitializationException: An exception was thrown by the type initializer for Mono.CSharp.CSharpCodeCompiler ---> System.IO.FileNotFoundException: Windows mono path not found: C:\Users\Nick\Desktop\YouDunnit Repo\2011capstone02\Builds\mono\mono\mini\mono.exe
+  at Mono.CSharp.CSharpCodeCompiler..cctor () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at Microsoft.CSharp.CSharpCodeProvider.CreateCompiler () [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/NavMesh/NavMeshAgent.cpp Line: 184)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Confirming Accuse
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham has more suspicion than the player
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham is the person being framed
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham: matched the first item, 5 points!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham: matched the second item, 5 points!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Cunningham: matched the motive, 10 points!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Removing inventory
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 721 unused Assets to reduce memory usage. Loaded Objects now: 1277. Operation took 23.656799 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1819. Operation took 9.851145 ms.

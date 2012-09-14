@@ -1,0 +1,2416 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.9610]
+    Renderer: NVIDIA GeForce GTS 450   
+    Vendor:   NVIDIA
+    VRAM:     993 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\Boo.Lang.dll (this message is harmless)
+Fader status: True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+StartGUI:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Timer must be instantiated using the ScriptableObject.CreateInstance method instead of new Timer.
+UnityEngine.ScriptableObject:.ctor()
+Timer:.ctor()
+GUIFader:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Scripting/ScriptingUtility.cpp line 849] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Scripting/ScriptingUtility.cpp Line: 849)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 8521. Operation took 54.206260 ms.
+System memory in use: 32.7 MB.
+Intilizing lazy singleton
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Character Set ID: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SET CHARACTER: Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SET CHARACTER: Butler
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SET CHARACTER: Kurtz
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SET CHARACTER: Deborah
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SET CHARACTER: Bouchez
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+SET CHARACTER: Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSetManager:GenerateSceneario()
+CharacterSetManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Game
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Clearing Nav Nodes
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Clearing Items
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning NPCs
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Tying to spawn: Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Tying to spawn: Butler
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Butler
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in character_Butler will be turned off.
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp line 1759] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp Line: 1759)
+
+Tying to spawn: Kurtz
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Kurtz
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in character_Kurtz will be turned off.
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp line 1759] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp Line: 1759)
+
+Tying to spawn: Deborah
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Deborah
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in character_DeborahTaunt will be turned off.
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp line 1759] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp Line: 1759)
+
+Tying to spawn: Bouchez
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Bouchez
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in character_JeanPierre will be turned off.
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp line 1759] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp Line: 1759)
+
+Tying to spawn: Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in character_MajorBennington will be turned off.
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+NPCSpawner:Spawn(CharacterName)
+NPCSpawner:Initilize()
+GameManager:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp line 1759] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Animation/Animation.cpp Line: 1759)
+
+Starting Motive Manager
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\tyler.steele\Desktop\Youdunnit\2011capstone02\Builds\Standalone\0.05\YouDunnit_Data\Managed\System.Configuration.dll (this message is harmless)
+Creating Input
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating input instance
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inputbase:CreateInput()
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Input
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: rh892747671263
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: st928723203098
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Timer must be instantiated using the ScriptableObject.CreateInstance method instead of new Timer.
+UnityEngine.ScriptableObject:.ctor()
+Timer:.ctor()
+GUIFader:Start()
+
+[C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Scripting/ScriptingUtility.cpp line 849] 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Scripting/ScriptingUtility.cpp Line: 849)
+
+UINPCDisplay not attached to any ui element
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MatchedArea:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+UINPCDisplay not attached to any ui element
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MatchedArea:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: RadioInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating Trigger
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Adding interaction: DoorInteraction
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Trigger:Start()
+ClickedTrigger:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading: 4 files
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SoundManager:LoadMusic()
+SoundManager:Init(Boolean, Boolean, Int32, Int32, String)
+SoundManager:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Malory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Malory(Clone) Conversation status: Malory(Clone) (Conversation)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Butler
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Butler(Clone) Conversation status: Butler(Clone) (Conversation)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: FeatherDuster
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: FeatherDuster
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: SkeletonKey
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: SkeletonKey
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Kurtz
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Kurtz(Clone) Conversation status: Kurtz(Clone) (Conversation)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: IvoryHorn
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: IvoryHorn
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: ShrunkenHead
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: ShrunkenHead
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Deborah
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Deborah(Clone) Conversation status: Deborah(Clone) (Conversation)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: Perfume
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Perfume
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: CigarettePack
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: CigarettePack
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Bouchez
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Bouchez(Clone) Conversation status: Bouchez(Clone) (Conversation)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: WineBottle
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: WineBottle
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: CigarBox
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: CigarBox
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering Bennington
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Character:Start()
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Bennington(Clone) Conversation status: Bennington(Clone) (Conversation)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning Item: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Spawning: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ItemSpawnPoint:Initilize(CharacterItem)
+GameManager:SpawnItem(CharacterItem)
+NonPlayableCharacter:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: pn816634267245
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: gi343705779810
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: ti981826215452
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: mq623466317067
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: yg1272244309271
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: hs361024303708
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: ro871416831952
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: fj274482980859
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: yc1229843744607
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: ye1264488500546
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: ev225182876228
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: vj1080611331445
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: vs676888620397
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: pc782144877540
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: yy1275149339756
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: wb1160559143973
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: kt532983174530
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: iv415726882303
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: tt1023328395104
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: ur1063302162556
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: lj586281897248
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: yu1232524450450
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: yr1268501160756
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: uc1052642771835
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: zn1307142482407
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: bn62625584214
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: sn923394254242
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Duplicate Hash ID found. ID: gn329117433189
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+HashID:AddToDictionary()
+HashID:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: SleuthingGuide
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: LuckyMagnifyingGlass
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: FeatherDuster
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: FeatherDuster
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: SkeletonKey
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: SkeletonKey
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: IvoryHorn
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: IvoryHorn
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: ShrunkenHead
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: ShrunkenHead
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: Perfume
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: Perfume
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: CigarettePack
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: CigarettePack
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: WineBottle
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: WineBottle
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: CigarBox
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: CigarBox
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: Medal
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting Item: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Registering: Bayonet
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Item:Start()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Checking Item: WineBottle
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Checking Item: CigarBox
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Checking Item: WineBottle
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Checking Item: CigarBox
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Hit Bouchez(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inputbase:GetClickedObject()
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Starting conversation with Bouchez(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing Dialog Item: Hello zer, my friend. We are told of a murder, but...perhaps there is something more at work here. Perhaps...this all an 'astuce,'...eh, an elaborate trick. There is always more at work. I may tell stories, but I firmly believe, zer a conspiracy at work this night. Perhaps, zey are really thieves...trying to get their hands on the gift I provided for ze late Richard Gott. Qu'il repose en paix.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On focused actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: wg1134235764127
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: fs305217382325
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: zs1290176536177
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+LookAtGameObject:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: lc582285331182
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+LookAtGameObject:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On Leave actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing Dialog Item: Branching Choice
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On focused actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On Leave actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing Dialog Item: Me? My story is long, and tragic. Of love lost, never returned. For you see, I am a lost soul, I travel this place in my sorrow. I was once the finest accordion player in the whole of the world, but mon Dieu, I was undone. I was beaten, by my treacherous brother! Now I simply wander through zis life, sharing stories of the dark and the ze lonely.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On focused actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On Leave actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: tj976962196354
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing Dialog Item: Let me tell you about the tragic tale. Many years ago, I traveled the streets of Paris. I visited a salle de bain, but alas, there was no paper. Not even a square. I was forced to walk with my shame. Other men would die when given such a terrible prospect. Can you imagine it? A lesser man would break, but I am not so certain I am the same man.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On focused actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On Leave actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: he399848103926
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing Dialog Item: Richard Gott was a generous patron of my music. I am saddened by his demise. Gott invited me here, to perform before his friends and family. But I am not a greedy man - for his favor, I brought Richard two gifts. A collector of rare and valued wines, Richard was happy to see my gift of a Wine Bottle. Have you seen Gott's stores in the cellar? My second gift, just as valued, was a box of rare cigars. I am saddened, however, as I do not know what became of zem after delivered to Gott. Surely, they must somewhere here in the mansion.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On focused actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On Leave actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: ku535796460453
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing Dialog Item: ..
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On focused actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: lo613100429706
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: ho389185491186
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Loading Object hash
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Getting Component: bm81302448671
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+HashID:GetGameObjectFromHashID(String)
+SingleHash:Initilize(DialogItem&, NodeActionType)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initilizing On Leave actions
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DialogItem:Initialize()
+Conversation:LoadConvo(TextAsset)
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Running node actions: OnDialogFocused
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Conversation:RunNodeAction(DialogItem, NodeActionType)
+Conversation:Talk(DialogItem)
+Conversation:StartConversation()
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Stopping navigation on: Bouchez(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+StopNav:DoAction()
+Conversation:RunNodeAction(DialogItem, NodeActionType)
+Conversation:Talk(DialogItem)
+Conversation:StartConversation()
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Stopping Agent
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+StopNav:DoAction()
+Conversation:RunNodeAction(DialogItem, NodeActionType)
+Conversation:Talk(DialogItem)
+Conversation:StartConversation()
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Bouchez(Clone) is looking at PlayerCharacter
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+LookAtGameObject:DoAction()
+Conversation:RunNodeAction(DialogItem, NodeActionType)
+Conversation:Talk(DialogItem)
+Conversation:StartConversation()
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Creating 3d audio callback
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SoundManager:Play3DSoundWithCallback(GameObject, AudioClip, Delegate, String, Boolean, Single)
+Conversation:Talk(DialogItem)
+Conversation:StartConversation()
+Conversation:TalkedTo(TextAsset)
+NonPlayableCharacter:StartConverstaion(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+ActionButtonPressed:invoke_void__this___object_ClickedEventArgs(Object, ClickedEventArgs)
+Inputbase:OnActionButtonPressed()
+PCInput:Update()
+GameManager:Update()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Dead
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CharacterMovement:OnDestroy()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Removing inventory
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inventory:OnDestroy()
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+

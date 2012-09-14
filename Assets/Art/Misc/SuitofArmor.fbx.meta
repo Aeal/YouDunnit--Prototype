@@ -1,0 +1,154 @@
+fileFormatVersion: 1
+guid: 0ca9d2e670925d34ebd109b655bca4d5
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    transform24:
+    - 100000
+    - 400000
+    pCube11:
+    - 100002
+    - 400002
+    polySurface69:
+    - 100004
+    - 400004
+    pCube13:
+    - 100006
+    - 400006
+    transform31:
+    - 100008
+    - 400008
+    pCube3:
+    - 100010
+    - 400010
+    transform37:
+    - 100012
+    - 400012
+    polySurface123:
+    - 100014
+    - 400014
+    - 3300000
+    - 2300000
+    pCube4:
+    - 100016
+    - 400016
+    transform39:
+    - 100018
+    - 400018
+    pCube6:
+    - 100020
+    - 400020
+    transform27:
+    - 100022
+    - 400022
+    transform38:
+    - 100024
+    - 400024
+    transform41:
+    - 100026
+    - 400026
+    transform40:
+    - 100028
+    - 400028
+    transform36:
+    - 100030
+    - 400030
+    transform35:
+    - 100032
+    - 400032
+    polySurface71:
+    - 100034
+    - 400034
+    polySurface70:
+    - 100036
+    - 400036
+    transform28:
+    - 100038
+    - 400038
+    transform30:
+    - 100040
+    - 400040
+    transform25:
+    - 100042
+    - 400042
+    transform23:
+    - 100044
+    - 400044
+    transform34:
+    - 100046
+    - 400046
+    pCube1:
+    - 100048
+    - 400048
+    transform26:
+    - 100050
+    - 400050
+    polySurface91:
+    - 100052
+    - 400052
+    //RootNode:
+    - 100054
+    - 400054
+    - 11100000
+    pCube30:
+    - 100056
+    - 400056
+    pCube31:
+    - 100058
+    - 400058
+    pSphere8:
+    - 100060
+    - 400060
+    pSphere4:
+    - 100062
+    - 400062
+    transform33:
+    - 100064
+    - 400064
+    pSphere7:
+    - 100066
+    - 400066
+    pCube5:
+    - 100068
+    - 400068
+    pCube2:
+    - 100070
+    - 400070
+    pCube12:
+    - 100072
+    - 400072
+    pCube10:
+    - 100074
+    - 400074
+    pCylinder4:
+    - 100076
+    - 400076
+    transform29:
+    - 100078
+    - 400078
+    transform32:
+    - 100080
+    - 400080
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface123

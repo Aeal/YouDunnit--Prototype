@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Bouchez/JeanPierre_Dialogue</AudioClipRef>
+      <subtitle>Hello zer, my friend. We are told of a murder, but...perhaps there is something more at work here. Perhaps...this all an 'astuce,'...eh, an elaborate trick. There is always more at work. I may tell stories, but I firmly believe, zer a conspiracy at work this night. Perhaps, zey are really thieves...trying to get their hands on the gift I provided for ze late Richard Gott. Qu'il repose en paix.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Bouchez</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Bouchez</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>zs1290176536177</lookerHashID>
+          <lookAtTargetHashID>lc582285331182</lookAtTargetHashID>
+          <lookerTag>Bouchez</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Tell me about yourself, Jean-Pierre.</string>
+        <string>Would you share a story?</string>
+        <string>What sort of gifts?</string>
+        <string>I'’ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Bouchez/JeanPierre_ResponseA</AudioClipRef>
+      <subtitle>Me? My story is long, and tragic. Of love lost, never returned. For you see, I am a lost soul, I travel this place in my sorrow. I was once the finest accordion player in the whole of the world, but mon Dieu, I was undone. I was beaten, by my treacherous brother! Now I simply wander through zis life, sharing stories of the dark and the ze lonely.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>tj976962196354</mHashID>
+          <objectTag>Bouchez</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Bouchez/JeanPierre_ResponseB</AudioClipRef>
+      <subtitle>Let me tell you about the tragic tale. Many years ago, I traveled the streets of Paris. I visited a salle de bain, but alas, there was no paper. Not even a square. I was forced to walk with my shame. Other men would die when given such a terrible prospect. Can you imagine it? A lesser man would break, but I am not so certain I am the same man.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>he399848103926</mHashID>
+          <objectTag>Bouchez</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Bouchez/JeanPierre_ResponseC</AudioClipRef>
+      <subtitle>Richard Gott was a generous patron of my music. I am saddened by his demise. Gott invited me here, to perform before his friends and family. But I am not a greedy man - for his favor, I brought Richard two gifts. A collector of rare and valued wines, Richard was happy to see my gift of a Wine Bottle. Have you seen Gott's stores in the cellar? My second gift, just as valued, was a box of rare cigars. I am saddened, however, as I do not know what became of zem after delivered to Gott. Surely, they must somewhere here in the mansion.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>ku535796460453</mHashID>
+          <objectTag>Bouchez</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>..</subtitle>
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>lo613100429706</mHashID>
+          <objectTag>Bouchez</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>ho389185491186</mHashID>
+          <objectTag>Bouchez</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>bm81302448671</mHashID>
+          <objectTag>Bouchez</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

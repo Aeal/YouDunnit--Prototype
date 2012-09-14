@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<audioFiles>
+		<audio>Intro_1</audio>
+		<audio>Intro_2</audio>
+		<audio>Intro_3</audio>
+		<audio>Intro_4</audio>
+		<audio>Intro_5</audio>
+		<audio>Intro_6</audio>
+		<audio>Intro_7</audio>
+	</audioFiles>
+	<imageFiles>
+		<image>Intro_1</image>
+		<image>Intro_2</image>
+		<image>Intro_3</image>
+		<image>Intro_4</image>
+		<image>Intro_5</image>
+		<image>Intro_6</image>
+		<image>Intro_7</image>
+	</imageFiles>
+</root>

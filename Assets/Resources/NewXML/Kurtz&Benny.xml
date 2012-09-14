@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny1</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerTag>Actor_Bennington</lookerTag>
+          <targetTag>Actor_Kurtz</targetTag>
+          <lookTime>0.3</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerTag>Actor_Kurtz</lookerTag>
+          <targetTag>Actor_Bennington</targetTag>
+          <lookTime>0.25</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Actor_Bennington</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Actor_Kurtz</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="FadeToCamera">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>LibrarySceneCam</objectTag>
+          <cameraToSwitchToTag>LibrarySceneCam</cameraToSwitchToTag>
+          <currentCameraTag>MainCamera</currentCameraTag>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz1</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny2</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz2</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny3</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz3</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny4</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz4</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny5</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz5</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz6</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny6</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Kurtz7</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny7</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Kurtz&amp;Benny/Benny8</AudioClipRef>
+      <subtitle />
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <waitTime>0</waitTime>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Actor_Bennington</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="FadeToCamera">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>LibrarySceneCam</objectTag>
+          <cameraToSwitchToTag>MainCamera</cameraToSwitchToTag>
+          <currentCameraTag>LibraraySceneCam</currentCameraTag>
+        </NodeAction>
+      </onNodeLeaveActions>
+      <mHasPreloaded>true</mHasPreloaded>
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

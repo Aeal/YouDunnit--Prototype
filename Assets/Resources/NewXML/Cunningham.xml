@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_Dialogue</AudioClipRef>
+      <subtitle>Gott's dead, are you kiddin' me? We got waken up...for that? I figured he'd croak any day now. I tried given some him some good music to liven him up, but there's just no helpin' some people. Can you believe all the old dustbags here? I'd have ridden outta here long before if it wasn't for the free booze.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Cunningham</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Cunningham</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>ag9329793064</lookerHashID>
+          <lookAtTargetHashID>lc582285331182</lookAtTargetHashID>
+          <lookerTag>Cunningham</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Tell me about yourself, Fritz.</string>
+        <string>What sort of music did you bring?</string>
+        <string>Ride out on what?</string>
+        <string>I'’ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_ResponseA</AudioClipRef>
+      <subtitle>What are ya, my mother? What do ya wanna know? Prolly the youngest person here. Gottie's my uncle, so I always gotta stop and, you know, say hello. Apple falls pretty far from the tree, though. These guys are all old world. Me - I'm fresh. Tell me you listen to Rock and Roll, buddy. The King? You know, Elvis. See that's what I'm sayin - none of ya have any taste. I'm okay with that though, more ladies for me and my Harley.</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>ao38652000161</mHashID>
+          <objectTag>Cunningham</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_ResponseB</AudioClipRef>
+      <subtitle>Me and Gottie didn't exactly see 'eye to eye' on everytin'. I mean - you hear the music they play round here? Terrible garbage! Greatest generation? Pssh they sure as hell ain't heard The King, that's for sure! I brought one of my Elvis records here - to show Gottie - and you know what he does? He hides it on me! Bah! Good music just aint for everyone I guess!</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>ok734388005339</mHashID>
+          <objectTag>Cunningham</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_ResponseC</AudioClipRef>
+      <subtitle>I was gonna show off my new Harley, but the damn keys disappeared. I swear that Butler took it. He kept eying me up like he wanted to throw me out the door. The nerve of some of these people. Lemme if you find it, though. I don't think anyone else here rides a bike. Tell ya what - you find the keys, and I'll let ya go for a ride after we're all outta here. Deal?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>lw599772420828</mHashID>
+          <objectTag>Cunningham</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle>..</subtitle>
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>yt1254190777541</mHashID>
+          <objectTag>Cunningham</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>fw273229659896</mHashID>
+          <objectTag>Cunningham</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>sn963634363870</mHashID>
+          <objectTag>Cunningham</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

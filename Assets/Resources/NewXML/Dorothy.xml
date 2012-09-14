@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConversationPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Dorothy/Dorothy_Dialogue</AudioClipRef>
+      <subtitle>Hello there, young man. What a smart looking fellow you are. Why, you remind me of my dear husband in his youth. The senator, have you met him? No? He's on important business, in Washington! Such a lovely man he is, why just last year we vacationed at the Great Pyramids in Egypt. Ah yes, the year was 1924. We had just married, we were both young and in love. I...yes can I help you?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="StopNav">
+          <IsShowing>true</IsShowing>
+          <mHashID />
+          <objectTag>Dorothy</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="LookAtGameObject">
+          <IsShowing>true</IsShowing>
+          <lookerHashID>qq858341261161</lookerHashID>
+          <lookAtTargetHashID>dr158560557681</lookAtTargetHashID>
+          <lookerTag>Dorothy</lookerTag>
+          <targetTag>MainCamera</targetTag>
+          <lookTime>0.5</lookTime>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>ys1271517959548</mHashID>
+          <objectTag>Dorothy</objectTag>
+          <AnimationName>talk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>Player</speaker>
+      <AudioClipRef />
+      <subtitle>Branching Choice</subtitle>
+      <wait>Audio</wait>
+      <is_branch>true</is_branch>
+      <choice>
+        <string>Tell me about yourself.</string>
+        <string>How do you know Gott?</string>
+        <string>I haven't met your husband.</string>
+        <string>I'’ll leave you to it, then.</string>
+      </choice>
+      <jump>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+      </jump>
+      <onNodeFocusedActions />
+      <onNodeLeaveActions />
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Dorothy/Dorothy_ResponseA</AudioClipRef>
+      <subtitle>Me? I am Dorothy Ellington! I am beautiful wife of Kenneth, have you met him? I am always called upon for the finest parties and events. Waiter, over here, please. Is that a waiter, or a Butler? I cannot tell! *Laughs* Where was I? When Richard decided he would be throwing a party, of course I was the first he wanted to invite. But enough about me, what's a strapping young lad like yourself doing here? Any relation to the man of the hour, Mr. Gott?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>jw495812036915</mHashID>
+          <objectTag>Dorothy</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Dorothy/Dorothy_ResponseB</AudioClipRef>
+      <subtitle>Why Richard and I go back many years! We often went traveling together, the four of us - Kenneth and myself, Richard with his first wife. Oh! We were so young and lively back then! We explored the dark jungles - met an odd man named Kurtz, have you met him? In fact, it was on one of our adventures where I was given a Jewel Necklace! It was given to me by a powerful shaman, in exchange for me leaving his people forever. Something about me seemed to irritate them, strange is it not?</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>fd297220657308</mHashID>
+          <objectTag>Dorothy</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>true</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef>Audio/Dialogue/Dorothy/Dorothy_ResponseC</AudioClipRef>
+      <subtitle>You haven't met my dear Kenneth? Oh, he is a Senator! He is tall, dark, and quite handsome! I just saw him...Kenneth! Where has he gone to? Why, I do have a picture of him, it is of the two of us on our honeymoon! I show it to everyone! It's right...oh...where did it go? It must be around here somewhere...</subtitle>
+      <wait>Audio</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions />
+      <onNodeLeaveActions>
+        <NodeAction xsi:type="JumpToNode">
+          <IsShowing>true</IsShowing>
+          <mHashID>oo759711997409</mHashID>
+          <objectTag>Dorothy</objectTag>
+          <nodeNumberToJumpTo>1</nodeNumberToJumpTo>
+        </NodeAction>
+      </onNodeLeaveActions>
+    </DialogItem>
+    <DialogItem>
+      <show>true</show>
+      <skippable>false</skippable>
+      <speaker>NPC</speaker>
+      <AudioClipRef />
+      <subtitle />
+      <wait>Subtitle</wait>
+      <is_branch>false</is_branch>
+      <choice />
+      <jump />
+      <onNodeFocusedActions>
+        <NodeAction xsi:type="EndConvoActions">
+          <IsShowing>true</IsShowing>
+          <mHashID>cv129284322707</mHashID>
+          <objectTag>Dorothy</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="StartNav">
+          <IsShowing>true</IsShowing>
+          <mHashID>ly603771116827</mHashID>
+          <objectTag>Dorothy</objectTag>
+        </NodeAction>
+        <NodeAction xsi:type="PlayAnimation">
+          <IsShowing>true</IsShowing>
+          <mHashID>yq1254191219604</mHashID>
+          <objectTag>Dorothy</objectTag>
+          <AnimationName>walk</AnimationName>
+        </NodeAction>
+      </onNodeFocusedActions>
+      <onNodeLeaveActions />
+    </DialogItem>
+  </items>
+  <versionNumber>1</versionNumber>
+</ConversationPackage>

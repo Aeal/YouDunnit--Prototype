@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDialogItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+	
+	<!--NPC: 0 -->
+	<DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_002</AudioClipRef>
+    <subtitle>Can you believe this?! First that Pearson Malory has the nerve to wake us all up, now he wants us to hop around the mansion lookin’ for clues...at this hour? Speakin’ of which, do you have any idea what time it is? I, eh, misplaced my pocket watch...somewhere.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+	<wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--Player: 1 -->
+  <DialogItem>
+    <show>true</show>
+    <speaker>Player</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>Misplaced your watch, you say?</string>
+      <string>Where would we get a drink at this hour?</string>
+	  <string>Did you see the chap before he turned up dead? </string>
+	  <string>I’ll leave you to it, then.</string>
+    </choice>
+    <jump>
+      <int>2</int>
+      <int>4</int>
+	  <int>6</int>
+	  <int>7</int>
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--NPC: 2 -->
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_002a</AudioClipRef>
+    <subtitle>It was my father’s watch. It bears my family crest – gold and silver lined. Quite valuable. I’m usually not without it. I must have left it…somewhere. I think I left it in the library.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--Player: 3 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+      <string>Where would we get a drink at this hour?</string>
+	  <string>Did you see the chap before he turned up dead? </string>
+	  <string>I’ll leave you to it, then.</string></choice>
+    <jump>
+      <int>4</int>
+      <int>6</int>
+      <int>7</int>	  
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+  <!--NPC: 4 -->    
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_002b</AudioClipRef>
+    <subtitle>Champagne, my good man! I brought an entire case of the stuff for the party, but I don’t let the bottles out of my sight. They’re my pride and joy, and worth more than a few pretty pennies if you ask me. Got a few ‘friends’ who bring ‘em in from the border. You can have some with me later if you’d like. Got a few bottles left in my room.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>
+  
+  
+   <!--Player: 5 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>Did you see the chap before he turned up dead? </string>
+	  <string>I’ll leave you to it, then.</string></choice>
+    <jump>
+      <int>6</int>
+      <int>7</int> 
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem> 
+  
+  
+  <!--NPC: 6 -->    
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef>Audio/Dialogue/Cunningham/Cunningham_002c</AudioClipRef>
+    <subtitle>Do I look like a gumshoe to you? Bah! If ya must know, the bloke was in my room earlier, drinkin’ champagne with me. But forgetta ‘bout it. He left long before we all went to sleep. What do I care? I don’t give two hoots about the stiff. Coulda’ waited till mornin’ if you ask me.</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>NPC_Halfprofile</perspective>
+    <angle>level</angle>
+    <distance>closeup</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>  
+  
+  
+   <!--Player: 7 -->  
+  <DialogItem>
+    <show>true</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle>Branching Choice</subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Audio</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>true</is_branch>
+    <choice>
+	  <string>I’ll leave you to it, then.</string></choice>
+    <jump> 
+    	<int>8</int> 
+    </jump>
+    <has_action>false</has_action>
+    <ActionMethod />
+    <ActionParameter />
+  </DialogItem>  
+  
+  
+  <!--Player: 8 -->  
+  <DialogItem>
+    <show>false</show>
+    <speaker>NPC</speaker>
+	<AudioClipRef />
+    <subtitle></subtitle>
+	<NpcAnimationRef>Animations/charactermesh@talk</NpcAnimationRef>
+    <wait>Subtitle</wait>
+    <show_camera>true</show_camera>
+    <perspective>Classic_Two_Shot</perspective>
+    <angle>level</angle>
+    <distance>medium</distance>
+    <side>left</side>
+    <is_branch>false</is_branch>
+    <choice />
+    <jump />
+    <has_action>true</has_action>
+    <ActionMethod>StopConversationRestoreDefaults</ActionMethod>
+    <ActionParameter />
+  </DialogItem>     
+  
+   
+</ArrayOfDialogItem>

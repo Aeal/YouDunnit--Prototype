@@ -1,0 +1,58 @@
+fileFormatVersion: 1
+guid: ce35ce171ce7842449091b968c9add5b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.05
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    doorL:
+    - 100000
+    - 400000
+    granddoorway1:
+    - 100002
+    - 400002
+    //RootNode:
+    - 100004
+    - 400004
+    - 11100000
+    polySurface50:
+    - 100006
+    - 400006
+    - 3300000
+    - 2300000
+    transform19:
+    - 100008
+    - 400008
+    doorR:
+    - 100010
+    - 400010
+    transform18:
+    - 100012
+    - 400012
+    frame:
+    - 100014
+    - 400014
+    transform20:
+    - 100016
+    - 400016
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface50
